@@ -96,4 +96,4 @@ This program provides basic functionality for managing passwords, but in a real-
 
 ## License
 
-I've tried to use only open source modules and tools to make this program, so I think I'm in the clear to submit this as a software protected under [Apache 2.0](https://github.com/Cryptic1526/Password-Manager/blob/main/LICENSE). Use this how you may, add on to it, build off of it, make it your own! Maybe we can get it to a position where I can use this on Linux as a genuine option for password management. Who knows `¯\_(ツ)_/`¯.
+I've tried to use only open source modules and tools to make this program, so I think I'm in the clear to submit this as a software protected under [Apache 2.0](https://github.com/Cryptic1526/Password-Manager/blob/main/LICENSE). Use this how you may, add on to it, build off of it, make it your own! Maybe we can get it to a position where I can use this on Linux as a genuine option for password management. Who knows `¯\_(ツ)_/¯`.
