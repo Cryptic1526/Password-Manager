@@ -88,7 +88,7 @@ The master password is used to encrypt and decrypt the stored passwords. It is f
 
 ## Data Storage
 
-Account data, including encrypted passwords and associated URLs or patterns, is stored in a JSON file named `accounts.json`. This file is portable and can be easily transferred between different machines or environments. The hashed and salted master password is stored in the `hashes.cryptk` file. I'm aware that this isn't the best place to put it, but its a basic proof of concept I made at 2AM, so please give me some slack :).
+Account data, including encrypted passwords and associated URLs or patterns, is stored in a JSON file named `accounts.json`. This file is portable and can be easily transferred between different machines or environments. The hashed and salted master password is stored in the `hashes.cryptk` file. I'm aware that this isn't the best place to put it, but its a basic proof of concept I made at 2AM, so please cut me some slack :).
 
 ## Security Considerations
 
@@ -96,4 +96,4 @@ This program provides basic functionality for managing passwords, but in a real-
 
 ## License
 
-I've tried to use only open source modules and tools to make this program, so I think I'm in the clear to submit this as a software protected under [Apache 2.0](https://github.com/Cryptic1526/Password-Manager/blob/main/LICENSE). Use this how you may, add on to it, build off of it, make it your own! Maybe we can get it to a position where I can use this on Linux as a genuine option for password management. Who knows `¯\_(ツ)_/¯`.
+I've tried to use only open source modules and tools to make this program, so I think I'm in the clear to submit this as a software protected under [Apache 2.0](https://github.com/Cryptic1526/Password-Manager/blob/main/LICENSE). Use this how you may, add on to it, build off of it, make it your own! Maybe we can get it to a position where people can use this as a genuine option for password management. Who knows `¯\_(ツ)_/¯`.
