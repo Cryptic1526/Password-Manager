@@ -14,6 +14,7 @@ This file provides a simple guide for using the Cryptic Password Manager command
 - [Master Password](#master-password)
 - [Data Storage](#data-storage)
 - [Security Considerations](#security-considerations)
+- [License](#license)
 
 ## Getting Started
 
