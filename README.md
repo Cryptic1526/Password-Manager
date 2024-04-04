@@ -17,7 +17,7 @@ This file provides a simple guide for using the Cryptic Password Manager command
 
 ## Getting Started
 
-To use the Password Manager, you need to have Python installed on your system (install it [HERE](https://www.python.org/downloads/)). Once Python is installed, you can install the requirements by running `pip install -r requirements.txt`. Finally, run the program from the terminal by executing the following command:
+To use the Password Manager, you need to have Python installed on your system (install it [HERE](https://www.python.org/downloads/)). Once Python is installed, you can clone the repository and install the requirements by running `pip install -r requirements.txt`. Finally, run the program from the terminal by executing the following command:
 
 ```batch
 python passmgr.py [command] [options]
